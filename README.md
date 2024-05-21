@@ -28,4 +28,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/SoccerNet/sn-echoes/pull/2) in [SoccerNet/sn-echoes](https://github.com/SoccerNet/sn-echoes)
+2. 💪 Opened PR [#7](https://github.com/simula/code.simula.no/pull/7) in [simula/code.simula.no](https://github.com/simula/code.simula.no)
+3. 🎉 Merged PR [#6](https://github.com/simula/SoccerSum/pull/6) in [simula/SoccerSum](https://github.com/simula/SoccerSum)
+4. 💪 Opened PR [#6](https://github.com/simula/SoccerSum/pull/6) in [simula/SoccerSum](https://github.com/simula/SoccerSum)
+5. 💪 Opened PR [#4](https://github.com/simula/datasets.simula.no/pull/4) in [simula/datasets.simula.no](https://github.com/simula/datasets.simula.no)
 <!--END_SECTION:activity-->
