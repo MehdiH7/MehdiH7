@@ -1,0 +1,13 @@
+# .github/github-activity-readme.yml
+
+# Enable/Disable activity types
+activity:
+  commits: true
+  issues: true
+  pull_requests: true
+  releases: true
+
+# Customize the display format (Optional)
+format:
+  commit: "- {commit.message} by {commit.author} on {commit.date}"
+  pull_request: "- {pull_request.title} by {pull_request.author} on {pull_request.date}"
