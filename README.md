@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on multiple projects related to ML applications.
 - 👯 I’m looking to collaborate on cool ideas involving AI.
-- 📫 How to reach me: [mehdihou@oslomet.no](mailto:mehdihou@oslomet.no)
+- 📫 How to reach me: [mehdi@forzasys.com](mailto:mehdi@forzasys.com)
 - ⚡ Fun fact: I love to attend hackathons!
 
 ### Connect with me:
