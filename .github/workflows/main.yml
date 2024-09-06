@@ -12,10 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Log Latest Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        with:
-          COMMIT: true  # Enable commits as part of the activity tracking
+      - name: Update README with recent activity
+        uses: gautamkrishnar/blog-post-workflow@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your PAT token
+          MAX_LINES: 5  # Customize the number of activity lines to fetch
