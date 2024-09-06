@@ -12,8 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Update README with recent activity
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Log Latest Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your PAT token
-          MAX_LINES: 5  # Customize the number of activity lines to fetch
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your PAT token here instead of GITHUB_TOKEN
