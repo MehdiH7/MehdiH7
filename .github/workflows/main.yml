@@ -14,5 +14,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Log Latest Activity
         uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT: true  # Enable commits as part of the activity tracking
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
